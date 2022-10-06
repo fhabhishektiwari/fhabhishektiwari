@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishektiwari
-- 👀 I’m interested in Web-Devlopment,Data Science
-- 🌱 I’m currently learning Angular and React
+- 👀 I’m interested in Web-Devlopment
+- 🌱 I’m currently learning ReactJS,AngularJS and VueJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...abhishektiwarifh@gmail.com
 
