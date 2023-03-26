@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhishektiwari
 - 👀 I’m interested in Web-Devlopment
-- Skills: Python,Reactjs,Html,CSS,MySql
 - 📫 How to reach me ...abhishektiwarifh@gmail.com
 
 <!---
