@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhishektiwari
 - 👀 I’m interested in Web-Devlopment
-- 🌱 I’m currently learning ReactJS,AngularJS and VueJS
-- 💞️ I’m looking to collaborate on ...
+- Skills: Python,Reactjs,Html,CSS,MySql
 - 📫 How to reach me ...abhishektiwarifh@gmail.com
 
 <!---
