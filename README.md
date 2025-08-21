@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishektiwari
-- 👀 I’m interested in Web-Devlopment
+- 👀 I’m interested in Devlopment
 - 📫 How to reach me ...abhishektiwarifh@gmail.com
 
 <!---
